@@ -9,9 +9,9 @@
 <nav class="nav-header">
     <div class="nav-container">
         {% if page.url == "/index.html" or page.url == "/" %}
-            <div class="active"><a href="{{ site.baseurl }}{% link index.markdown %}">Home</a></div>
+            <div class="active"><a href="{% link index.markdown %}">Home</a></div>
         {% else %}
-            <div><a href="{{ site.baseurl }}{% link index.markdown %}">Home</a></div>
+            <div><a href="{% link index.markdown %}">Home</a></div>
         {% endif %}
         <div></div>
         <div></div>

@@ -78,12 +78,13 @@ body {
     transition-duration: 1s;
     width: 33%;
     margin-left: 33%;
-    background-color: $red;
+    background-color: white;
     border-radius: 5px;
 }
 
 .method-nav:hover {
     height: auto;
+    box-shadow: 0 10px 10px -5px;
 }
 
 .spacer {
@@ -98,10 +99,11 @@ body {
 
 .method-nav a {
     display: block;
-    color: white;
+    color: $red;
     margin: 5px;
     -webkit-user-select: none;
     -moz-user-select: none;
+    font-size: small;
 }
 
 .theo-nav {
@@ -114,12 +116,13 @@ body {
     transition-duration: 1s;
     width: 33%;
     margin-left: 66%;
-    background-color: $red;
+    background-color: white;
     border-radius: 5px;
 }
 
 .theo-nav:hover {
     height: auto;
+    box-shadow: 0 10px 10px -5px;
 }
 
 .theo-nav div,a {
@@ -128,8 +131,9 @@ body {
 
 .theo-nav a {
     display: block;
-    color: white;
+    color: $red;
     margin: 5px;
+    font-size: small;
 }
 
 .active {
