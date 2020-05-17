@@ -1,0 +1,45 @@
+<div class="header" style="background-image: url({{ '/assets/img/header-back.jpg' | relative_url }});">
+    <table id="wrapper">
+        <tr>
+            <td><img src="{{ 'assets/img/title.png' | relative_url }}"></td>
+        </tr>
+    </table>
+</div>
+
+<nav class="nav-header">
+    <div class="nav-container">
+        {% if page.url == "/index.html" or page.url == "/" %}
+            <div class="active"><a href="{{ site.baseurl }}{% link index.markdown %}">Home</a></div>
+        {% else %}
+            <div><a href="{{ site.baseurl }}{% link index.markdown %}">Home</a></div>
+        {% endif %}
+        <div></div>
+        <div></div>
+    </div>
+
+    <div class="method-nav">
+        {% if page.category == "methodology" %}
+            <div class="active spacer">Methodology</div>
+        {% else %}
+            <div class="spacer">Methodology</div>
+        {% endif %}
+        {% for article in site.articles %}
+            {% if article.category == "methodology" %}
+                <a href="{{ article.url }}">{{ article.short-title }}</a>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="theo-nav">
+        {% if page.category == "deities" %}
+            <div class="active spacer">Theology</div>
+        {% else %}
+            <div class="spacer">Theology</div>
+        {% endif %}
+        {% for article in site.articles %}
+            {% if article.category == "deities" %}
+                <a href="{{ article.url }}">{{ article.title }}</a>
+            {% endif %}
+        {% endfor %}
+    </div>
+</nav>

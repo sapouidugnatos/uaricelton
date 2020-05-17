@@ -1,0 +1,231 @@
+$red: #ED2939;
+
+body, html, #wrapper {
+    height:100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    height: auto;
+}
+
+.header {
+    width: 100%;
+    height: 50vh;
+    color: white;
+    background-position: center;
+ }
+
+ .header img { 
+    margin: auto;
+    max-width: 50%;
+    min-width: 288px;
+    max-height: 50%;
+    height: auto;
+    width: 40%;
+}
+
+#wrapper td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.nav-header {
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    color: #888;
+    font-weight: bolder;
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,0.2);
+    position: sticky;
+    top: -1px;
+}
+
+.nav-header a {
+    color: #888;
+    text-decoration: none;
+}
+
+.active a {
+    color: $red;
+}
+
+.nav-container {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.nav-container div {
+    display: table-cell;
+    width: 33%;
+    vertical-align: middle;
+    height: 50px;
+    text-align: center;
+}
+
+.method-nav {
+    position: absolute;
+    top: 0px;
+    z-index: 3;
+    height: 50px;
+    overflow: hidden;
+    transition-property: height;
+    transition-duration: 1s;
+    width: 33%;
+    margin-left: 33%;
+    background-color: $red;
+    border-radius: 5px;
+}
+
+.method-nav:hover {
+    height: auto;
+}
+
+.spacer {
+    background-color: white;
+    text-align: center;
+    line-height: 50px;
+}
+
+.method-nav div,a {
+    height: 50px;
+}
+
+.method-nav a {
+    display: block;
+    color: white;
+    margin: 5px;
+}
+
+.theo-nav {
+    position: absolute;
+    top: 0px;
+    z-index: 4;
+    height: 50px;
+    overflow: hidden;
+    transition-property: height;
+    transition-duration: 1s;
+    width: 33%;
+    margin-left: 66%;
+    background-color: $red;
+    border-radius: 5px;
+}
+
+.theo-nav:hover {
+    height: auto;
+}
+
+.theo-nav div,a {
+    height: 50px;
+}
+
+.theo-nav a {
+    display: block;
+    color: white;
+    margin: 5px;
+}
+
+.active {
+    color: $red;
+}
+
+.content-container {
+    color: #292929;
+}
+
+.content-container p,blockquote,img {
+    margin-bottom: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.content-container h1 {
+    margin-bottom: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.content-container a {
+    color: $red;
+    text-decoration: none;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.content-container blockquote {
+    color: #6a737d;
+    box-sizing: border-box;
+    border-left: .25em solid #dfe2e5;
+}
+
+.content-container img {
+    width:auto;
+    height: auto;
+    max-height: 375px;
+    max-width: 300px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.content-container hr {
+    height: .25em;
+    padding: 0;
+    margin: 24px 5% 24px 5%;
+    background-color: #e1e4e8;
+    border: 0;
+    width: 90%;
+    text-align: center;
+    
+}
+
+.title-img {
+    margin: 0px;
+}
+
+.footer-wrapper ul {
+    list-style-type: none;
+    margin-left: -40px;
+  }
+  
+.footer-wrapper li, .footer-wrapper p {
+    color: grey;
+}
+
+.footer-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-wrapper div {
+    flex-grow: 1;
+}
+
+footer {
+    box-sizing: border-box;
+    padding: 10px;
+    border-top: 1px solid gainsboro;
+}
+
+footer a {
+    color: $red;
+    text-decoration: none;
+}
+
+footer h2 {
+    font-size: 18px;
+}
+
+.svg-icon {
+    width: 16px;
+    height: 18px;
+    display: inline-block;
+    fill: $red;
+    padding-right: 5px;
+    vertical-align: text-bottom;
+}
