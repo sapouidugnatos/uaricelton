@@ -25,7 +25,7 @@
         {% endif %}
         {% for article in site.articles %}
             {% if article.category == "methodology" %}
-                <a href="{{ article.url }}">{{ article.short-title }}</a>
+                <a href="{{ article.url | prepend:site.baseurl }}">{{ article.short-title }}</a>
             {% endif %}
         {% endfor %}
     </div>
@@ -38,7 +38,7 @@
         {% endif %}
         {% for article in site.articles %}
             {% if article.category == "deities" %}
-                <a href="{{ article.url }}">{{ article.title }}</a>
+                <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
     </div>
