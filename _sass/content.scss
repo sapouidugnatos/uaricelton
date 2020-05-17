@@ -98,12 +98,16 @@ body {
 }
 
 .method-nav a {
-    display: block;
+    display: flex;
     color: $red;
-    margin: 5px;
+    box-sizing: border-box;
+    padding: 10px;
     -webkit-user-select: none;
     -moz-user-select: none;
     font-size: small;
+    border-top: 1px solid #ececec;
+    align-items: center;
+    width: 100%;
 }
 
 .theo-nav {
@@ -130,10 +134,16 @@ body {
 }
 
 .theo-nav a {
-    display: block;
+    display: flex;
     color: $red;
-    margin: 5px;
+    box-sizing: border-box;
+    padding: 10px;
     font-size: small;
+    border-top: 1px solid #ececec;
+    align-items: center;
+    width: 100%;
+    -webkit-user-select: none;
+    -moz-user-select: none;
 }
 
 .active {

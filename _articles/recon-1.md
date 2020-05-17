@@ -3,6 +3,7 @@ title: On the Reconstruction of Tribal Cults with Little Epigraphic Evidence&#58
 category: methodology
 layout: default
 short-title: Epigraphic Evidence
+date: 2020-05-16-1
 ---
 
 
