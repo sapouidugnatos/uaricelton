@@ -47,7 +47,7 @@ Subutā! Welcome to the homepage of *Mantalon U̯ari·Celton!* The purpose of t
 - Tylis
 - Vindelici
 
-This project will be undertaken from an *explicitly* immanent polytheist point of view. The *Dēu̯oi* explored here are to be viewed as real, individual entities with agency. 
+This project will be undertaken from an *explicitly* immanent polytheist and ["post-recon"](https://axeandplough.com/2020/05/23/post-recon-what-happens-next/) point of view. The *Dēu̯oi* explored here are to be viewed as real, individual entities with agency. 
 
 *Mantalon U̯ari·Celton* is an explicitly antifascist and universalist project. Any use of this site's content in any other context context is unsanctioned and will be met with resistance.
 
