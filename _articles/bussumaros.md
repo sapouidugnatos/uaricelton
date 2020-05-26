@@ -31,7 +31,7 @@ Among the Southeastern Celts[^1], and even, surprisingly, among the Noric-Pannon
 
 ----------
 
-![Bussumāros]({{ 'assets/img/bussumaros-tail.png' | relative_url }} 'Bussumāros')
+![Bussumāros]({{ 'assets/img/bussumaros-cave-small.png' | relative_url }} 'Bussumāros')
 
 ----------
 
