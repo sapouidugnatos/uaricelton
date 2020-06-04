@@ -31,18 +31,18 @@
     </div>
 
     <div class="theo-nav">
-        {% if page.category != "methodology" %}
+        {% if page.category != "methodology" and page.title != "Home" %}
             <div class="active spacer">Theology</div>
         {% else %}
             <div class="spacer">Theology</div>
         {% endif %}
-        <a>Deities</a>
+        <a>𝗗𝗲𝗶𝘁𝗶𝗲𝘀</a>
         {% for article in site.articles %}
             {% if article.category == "deities" %}
                 <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
-        <a>Practice</a>
+        <a>𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲</a>
         {% for article in site.articles %}
             {% if article.category == "practice" %}
                 <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
