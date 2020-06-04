@@ -39,7 +39,6 @@ body {
     height: 50px;
     background-color: white;
     color: #888;
-    font-weight: bolder;
     box-shadow: 0 2px 2px -2px rgba(0,0,0,0.2);
     position: sticky;
     top: -1px;
@@ -148,6 +147,10 @@ body {
 
 .active {
     color: $red;
+}
+
+.bold {
+    font-weight: bold;
 }
 
 .content-container {

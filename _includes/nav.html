@@ -36,13 +36,13 @@
         {% else %}
             <div class="spacer">Theology</div>
         {% endif %}
-        <a>𝗗𝗲𝗶𝘁𝗶𝗲𝘀</a>
+        <a class="bold">Deities</a>
         {% for article in site.articles %}
             {% if article.category == "deities" %}
                 <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
-        <a>𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲</a>
+        <a class="bold">Practice</a>
         {% for article in site.articles %}
             {% if article.category == "practice" %}
                 <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
