@@ -3,6 +3,7 @@ title: Βουσσουμαρος - *Bussumāros
 category: deities
 layout: default
 date: 2020-05-24
+tribe: Boii
 ---
 
 ## And *Βουσσουριγιος* - *\*Bussurīgios* 

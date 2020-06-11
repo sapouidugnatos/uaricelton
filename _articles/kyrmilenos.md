@@ -3,6 +3,7 @@ title: Κυρμιληνός - *Kurmilēnos
 layout: default
 category: deities
 date: 2020-05-17
+tribe: Scordisci
 ---
 
 ----------

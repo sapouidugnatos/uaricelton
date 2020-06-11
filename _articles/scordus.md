@@ -3,6 +3,7 @@ title: Σκορδός - *Scordos
 layout: default
 category: deities
 date: 2020-05-16
+tribe: Scordisci
 ---
 
 
