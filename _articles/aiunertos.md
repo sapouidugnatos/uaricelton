@@ -1,14 +1,10 @@
 ---
-title: The Progenitors
+title: The *Ai̯unertiscoi
 layout: default
 category: deities
 date: 2020-06-10
 tribe: Bastarnae
 ---
-
-
-
-## Αιιουνερτος - *Aiunertos or Ταργιταος - Targitaos
 
 *by Canabirix Sapouađđion*
 
