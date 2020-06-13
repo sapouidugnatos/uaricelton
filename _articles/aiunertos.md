@@ -22,7 +22,7 @@ In attempting to reconstruct the religious landscape of the Celto-Scythian[^1] B
 
 
 
-Having established the ground rules for this reconstruction, the natural place to begin is the mythical beginning of the Scythians themselves, as quoted above.[^4] The story presents four important characters: Targitaos, the progenitor of all the Scythians, and his three sons, Lipoxais, Arpoxais, and Kolaxais. All four serve narrative and cosmological functions.[^5] Targitaos is a fusion of opposites: sky and earth, settled and nomad, "above and below, male and female, warm and moist",[^6] etc., and was likely a heroic, Herculean figure. The three brothers represent fragmentation of Scythians into historical tribes, with Kolaxais, and his four celestial objects, also representing the unifying nature of the Royal Scythian kingship. Kolaxais' two brothers' submission to him is a narrative justification for the subordintation of the, very much real, Scythian tribes who claimed descent from them to the Royal Scythians, the Paraltai.[^7]
+Having established the ground rules for this reconstruction, the natural place to begin is the mythical beginning of the Scythians themselves, as quoted above.[^4] The story presents four important characters: Targitaos, the progenitor of all the Scythians, and his three sons, Lipoxais, Arpoxais, and Kolaxais. All four serve narrative and cosmological functions.[^5] Targitaos is a fusion of opposites: sky and earth, settled and nomad, "above and below, male and female, warm and moist",[^6] etc., and was likely a heroic, Herculean figure. The three brothers represent fragmentation of Scythians into historical tribes, with Kolaxais, and his four celestial objects, also representing the unifying nature of the Royal Scythian kingship. Kolaxais' two brothers' submission to him is a narrative justification for the subordination of the, very much real, Scythian tribes who claimed descent from them to the Royal Scythians, the Paraltai.[^7]
 
 
 
@@ -32,50 +32,49 @@ Having established the mythological and cultic function of these figures as well
 
 | Scythian Theonym | Scythian Etymology                                           | Proposed Celtic Theonym                                      |
 | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Targitaos        | \**darga-tavah-* "He whose strength is long-lasting"[^8] or \**ptar-gaiϑānām* "father of mankind"[^9] | \**Ai̯unertos* "eternal strength" or \**Donicoatīr* "mankind father" |
-| Lipoxais         | \**dvīpá-xs̆ay(a)-* "Ruler of the peninsula"[^10]             | \**Letoenistīrix* 'peninsula king'                           |
-| Arpoxais         | \**álpa-xs̆ay(a)-* "Small king" or "Lesser king"[^11]         | \**Lou̯orix* "small/lesser king"                              |
-| Kolaxais         | \**kŭdā-xs̆ay(a)-* "Ruler over all, i.e. Great king"[^12]     | \**Ollorix* "king of all"                                    |
+| Targitaos        | \**darga-tavah-* "He whose strength is long-lasting"[^8] or \**ptar-gaiϑānām* "father of mankind"[^9] | \**Ai̯unertos*[^13] "eternal strength" or \**Donicoater*[^14] "mankind father" |
+| Lipoxais         | \**dvīpá-xs̆ay(a)-* "Ruler of the peninsula"[^10]             | \**Letoenistīrix*[^15] 'peninsula king'                      |
+| Arpoxais         | \**álpa-xs̆ay(a)-* "Small king" or "Lesser king"[^11]         | \**Lou̯orix*[^16] "small/lesser king"                         |
+| Kolaxais         | \**kŭdā-xs̆ay(a)-* "Ruler over all, i.e. Great king"[^12]     | \**Ollorix*[^17] "king of all"                               |
 
 
+
+As a group, or "house", all four can be referred to as the \**Ai̯unertiscoi* "those of \**Ai̯unertos*". 
 
 ----------
 
 **Bibliography**
 
-
+Delamarre (2003) Xavier, *Dictionnaire de la Langue Gauloise*, Paris 2003
 
 Lincoln (2018) Bruce, *Apples and Oranges: Explorations In, On, and With Comparison*, Chicago 2018
 
-
-
 Loma (2011) Aleksander, Namenkundliches zur skythischen Abstammungssage, in: *Studia Etymologica Cracoviensia* 16, 2011, 75-92
-
-
 
 Mac Gonagle (2015) Brendan, Celto-Scythians and Celticization in Ukraine and the North Pontic Region, in: M. M. Choref (ed.), *Materials in Archaeology and History of Ancient and Medieval Crimea, vol. 7*, Sevastopol 2015
 
-
+Matasović (2009) Ranko, *Etymological Dictionary of Proto-Celtic*, Leiden 2009
 
 Mayrhofer (2006) Manfred, *Einiges zu den Skythen, ihrer Sprache, ihrem Nachbelen*, Vienna 2006
 
-
-
 Sapouađđion (2020) Canabirix, [*On the Reconstruction of Tribal Cults with Little Epigraphic Evidence: The Example of Mars Campester in Moesia Superior*](https://sapouidugnatos.github.io/uaricelton/articles/recon-1.html), Online 2020
-
-
 
 ----------
 
 [^1]: Mac Gonagle 2015.
 [^2]: For more on that term, please refer to [this](https://axeandplough.com/2020/05/23/post-recon-what-happens-next/) excellent piece.
-[^3]: For more on this penomenon and how it can be applied to reconstred polytheist religion, see Sapouađđion 2020.
-[^4]: Of the two myths presented by Herodotus, this one is preferrable for reconstruction as it preserves Scythian theonyms.
+[^3]: For more on this phenomenon and how it can be applied to reconstructed polytheist religion, see Sapouađđion 2020.
+[^4]: Of the two myths presented by Herodotus, this one is preferable for reconstruction as it preserves Scythian theonyms.
 [^5]: Lincoln 2018.
 [^6]: Ibid. p. 85.
 [^7]: Ibid. pp. 20-22.
 [^8]: Mayrhofer 2006, p. 17.
 [^9]: Loma 2011, p. 78.
-[^10]: Ibid. p. 81.
-[^11]: Ibid. pp. 82-83.
-[^12]: Ibid. pp. 86-87.
+[^10]: Loma 2011 p. 81.
+[^11]: Loma 2011 pp. 82-83.
+[^12]: Loma 2011 pp. 86-87.
+[^13]:Delamarre 2003 pp. 36, 235.
+[^14]:Delamarre 2003 pp. 147, 58-59.
+[^15]:\**Letonenistī-* from Irish *leithinis*; see Matasović 2009 pp. 238-239, 116-117. On *rix*, see Delamarre 2003 pp. 260-261. 
+[^16]:Delamarre 2003 pp. 208-209. 
+[^17]:Interestingly, *Ollorix* has been attested as a PN in Galatia, part of the greater Eastern Celtic world. See Delamarre 2003 p. 241. 

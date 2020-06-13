@@ -44,6 +44,8 @@ Delamarre (2003) Xavier, *Dictionnaire de la Langue Gauloise*, Paris 2003
 
 Lambert (2008) Pierre-Yves, Gaulois *Solitumaros*, in: J. Vendryes (ed.), *Études Celtiques 36*, 2008, pp. 89-101
 
+Matasović (2009) Ranko, *Etymological Dictionary of Proto-Celtic*, Leiden 2009
+
 Mosser Martin & Pantzer (2014) Theresia, Eine Weiheinschrift für Iuppiter Bussumarius (?) aus Vindobona, *Fundort Wien 17/2014*, 2014, pp. 96-105
 
 Olmsted (2019) Garrett, *The Gods of the Celts and the Indo-Europeans (Revised)*, Clynchdale Tazewell 2019
@@ -73,3 +75,4 @@ Sarianidi (2003) Victor, Margiana and Soma-Haoma, *Electronic Journal of Vedic S
 [^11]: Pokorny 1959, p. 480. 
 [^12]: Greatest thanks, as always, to [Tegos Skrībbātous](https://skribbatous.org/) for this awesome interpretation produced in a personal communication. 
 [^13]: Sapouađđion 2020. 
+
