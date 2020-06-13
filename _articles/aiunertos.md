@@ -74,7 +74,7 @@ Sapouađđion (2020) Canabirix, [*On the Reconstruction of Tribal Cults with Lit
 [^11]: Loma 2011 pp. 82-83.
 [^12]: Loma 2011 pp. 86-87.
 [^13]:Delamarre 2003 pp. 36, 235.
-[^14]:Delamarre 2003 pp. 147, 58-59.
+[^14]:Ibid. pp. 147, 58-59.
 [^15]:\**Letonenistī-* from Irish *leithinis*; see Matasović 2009 pp. 238-239, 116-117. On *rix*, see Delamarre 2003 pp. 260-261. 
 [^16]:Delamarre 2003 pp. 208-209. 
 [^17]:Interestingly, *Ollorix* has been attested as a PN in Galatia, part of the greater Eastern Celtic world. See Delamarre 2003 p. 241. 
