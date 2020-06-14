@@ -53,8 +53,4 @@ This project will be undertaken from an *explicitly* immanent polytheist and ["p
 
 ![Mantalon U̯ari·Celton is Antifascist]({{ '/assets/img/antifa.png' | relative_url }})
 
-*Mantalon U̯ari·Celton*, as of the most recent date of publishing, is part of the Toutâ Galation network, [a network and advocacy group for Continental Celtic polytheists](https://toutagalation.org/).  
-
-![Toutâ Galation]({{ '/assets/img/touta.png' | relative_url }})
-
 I am forever indebted to my friends and colleagues from [Senobessus Bolgon](https://senobessusbolgon.wordpress.com/), [Sundorwīc Hearth](https://sundorwic.wordpress.com/), [Lārhūs Fyrnsida](https://larhusfyrnsida.com/), [Thia Frankisk Aldsido](https://frankisk-allodium.com/), [Tegos Skrībbātous](https://skribbatous.org/), and [The Longship](https://www.thelongship.net/) for their endless support, their amazing minds, and most importantly for their friendship. This work would not have been possible or enjoyable without them. 
