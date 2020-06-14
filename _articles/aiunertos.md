@@ -12,7 +12,7 @@ tribe: Bastarnae
 
 *by Canabirix Sapouađđion*
 
-> *"But there are some who say that Gaul was wide and large enough to reach from the outer sea and the subarctic regions to the Maeotic Lake on the east, where it bordered on Pontic Scythia, and that from that point on Gauls and Scythians were mingled. These mixed Gauls and Scythians had left their home and moved westward, not in a single march, nor even continuously, but with each recurring spring they had gone forward, fighting their way, and in the course of time had crossed the continent. 5 Therefore, while they had many different names for different detachments, they called their whole army by the general name of Galloscythians."*
+> *"But there are some who say that Gaul was wide and large enough to reach from the outer sea and the subarctic regions to the Maeotic Lake on the east, where it bordered on Pontic Scythia, and that from that point on Gauls and Scythians were mingled. These mixed Gauls and Scythians had left their home and moved westward, not in a single march, nor even continuously, but with each recurring spring they had gone forward, fighting their way, and in the course of time had crossed the continent. Therefore, while they had many different names for different detachments, they called their whole army by the general name of Galloscythians."*
 
 *- Plutarch, The Life of Marius, 11:4-5.*
 
