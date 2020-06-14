@@ -37,19 +37,19 @@
             <div class="spacer">Theology</div>
         {% endif %}
         <a class="bold">Deities</a>
-        <a class="italic">- Scordisci</a>
+        <a class="italic"><u>Scordisci</u></a>
         {% for article in site.articles %}
             {% if article.category == "deities" and article.tribe == "Scordisci" %}
                 <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
-        <a class="italic">- Bastarnae</a>
+        <a class="italic"><u>Bastarnae</u></a>
         {% for article in site.articles %}
             {% if article.category == "deities" and article.tribe == "Bastarnae" %}
                 <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
-        <a class="italic">- Boii</a>
+        <a class="italic"><u>Boii</u></a>
         {% for article in site.articles %}
             {% if article.category == "deities" and article.tribe == "Boii" %}
                 <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
