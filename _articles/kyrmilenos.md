@@ -28,7 +28,7 @@ On first glance, the theonym appears to almost certainly contain the Gaulish wor
 
 ---
 
-[^1]: Katsarov 1938, p. 236.
+[^1]: Katsarov 1938 no. 236.
 [^2]: Detschew 1957, p. 271.
 [^3]: Delamarre 2003, p. 133; Holder 1896, 1202; Matasović 2009, p. 217.
 [^4]: Nelson 2005, pp.45-66; de Bernardo Stempel 2013 pp. 87-88; Beck 2009 5.II.A.4.b.
