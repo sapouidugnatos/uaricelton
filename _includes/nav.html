@@ -43,15 +43,15 @@
                 <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
-        <a class="italic"><u>Bastarnae</u></a>
+        <!-- <a class="italic"><u>Bastarnae</u></a>
         {% for article in site.articles %}
             {% if article.category == "deities" and article.tribe == "Bastarnae" %}
                 <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
             {% endif %}
-        {% endfor %}
-        <a class="italic"><u>Boii</u></a>
+        {% endfor %} -->
+        <a class="italic"><u>Cross-Regional</u></a>
         {% for article in site.articles %}
-            {% if article.category == "deities" and article.tribe == "Boii" %}
+            {% if article.category == "deities" and article.tribe == "Cross-Regional" %}
                 <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
