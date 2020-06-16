@@ -54,7 +54,7 @@ This does, however, beg the question as to whether or not the *Scordisci* viewed
 
 ----------
 
-![Scordos]({{ '/assets/img/scordus-tail.png' | relative_url }} "Scordos")
+![Scordos]({{ '/assets/img/scordus-tail-cosmic.png' | relative_url }} "Scordos"){: .image-double}
 
 ----------
 
