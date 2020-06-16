@@ -34,7 +34,7 @@ Through *inter alia*,[^13] it becomes clear that *\*Bussumāros* / *\*Bussurī
 
 ----------
 
-![Bussumāros]({{ 'assets/img/bussumaros-cave-small.png' | relative_url }} 'Bussumāros')
+![Bussumāros]({{ 'assets/img/bussumaros-cave-4.png' | relative_url }} 'Bussumāros'){: .image-double}
 
 ----------
 
