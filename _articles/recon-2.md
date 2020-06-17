@@ -19,6 +19,10 @@ date: 2020-05-17-1
 
 ----------
 
+![Orcia]({{ '/assets/img/orcia-cosmic.png' | relative_url }} "Orcia"){: .image-double}
+
+----------
+
 [^1]: See, for example, [Senobessus Bolgon](https://senobessusbolgon.wordpress.com/), [The Longship](https://www.thelongship.net/), [Lārhūs Fyrnsida](https://larhusfyrnsida.com/), [ Thia Frankisk Aldsido](https://frankisk-allodium.com/), [Tegos Skrībbātous](https://skribbatous.org/), and the present author's WIP contribution: [Bessus Noricon](https://www.bescothnorichach.com/).
 [^2]: Raepsaet-Charlier 2012
 [^3]: Falileyev 2015 p. 171
