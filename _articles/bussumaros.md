@@ -10,7 +10,7 @@ tribe: Cross-Regional
 
 *by Canabirix Sapouađđion*
 
-![Bussumāros]({{ 'assets/img/bussumaros-head.png' | relative_url }} 'Bussumāros')
+![Bussumāros]({{ 'assets/img/bussumaros-head.png' | relative_url }} 'Bussumāros'){: .image-wide}
 
 ----------
 

@@ -10,7 +10,7 @@ tribe: Scordisci
 
 *by Canabirix Sapouađđion*
 
-![Kurmilēnos]({{ '/assets/img/kyrmilenos-head.png' | relative_url }} "Kurmilēnos")
+![Kurmilēnos]({{ '/assets/img/kyrmilenos-head.png' | relative_url }} "Kurmilēnos"){: .image-wide}
 
 *Greatest thanks, as always, to Farwater, with whom conversations always produce the most fascinating ideas.*
 

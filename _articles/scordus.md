@@ -12,7 +12,7 @@ tribe: Scordisci
 
 by Canabirix Sapouađđion
 
-![Scordos]({{ '/assets/img/scordus-head.png' | relative_url }} "Scordos")
+![Scordos]({{ '/assets/img/scordus-head.png' | relative_url }} "Scordos"){: .image-wide}
 
 
 > *"Scordiscoi buwar croudisamoi Thracon ollon, extos ēbo buwe celgā coetic nertos..."*
