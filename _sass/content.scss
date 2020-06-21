@@ -11,6 +11,10 @@ body, html, #wrapper {
 
 body {
     height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .header {
@@ -174,6 +178,14 @@ table td {
     color: #292929;
 }
 
+@media only screen and (min-width: 768px) {
+    .content-container {
+        width: 70%;
+        border-left: 1px solid gainsboro;
+        border-right: 1px solid gainsboro;
+    }
+}
+
 .content-container p,blockquote,img {
     margin-bottom: 16px;
     margin-left: 10px;
@@ -246,6 +258,7 @@ footer {
     box-sizing: border-box;
     padding: 10px;
     border-top: 1px solid gainsboro;
+    width: 100%;
 }
 
 footer a {
