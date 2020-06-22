@@ -48,7 +48,7 @@ These exact qualities of heroism and sovereignty may be reinforced in comparison
 
 > *"All the Gauls assert that they are descended from the god Dis, and say that this tradition has been handed down by the Druids."*[^13]
 
-To the present author's knowledge, only one Celtic deity appears in epigraphy with *Dīs* in the context of *interpretatio*: *Smertrios*,[^14] whose striking iconographical resemblence to \**Scordos* has already been established. This seems to confirm quite plainly that the deity attested on Manov's Celtic votive object is the eponymous heroic, sovereign, ancestral deity of the *Scordisci* and not simply an anthropomoprhic deity of the *Scordus Mons*.
+To the present author's knowledge, only one Celtic deity appears in epigraphy with *Dīs* in the context of *interpretatio*: *Smertrios*,[^14] whose striking iconographical resemblence to \**Scordos* has already been established. This seems to confirm quite plainly that the deity attested on Manov's Celtic votive object is the eponymous heroic, sovereign, ancestral deity of the *Scordisci* and not simply an anthropomoprhic deity of the *Scordus Mons*, a conclusion already reached by Theodossiev.[^18]
 
 This does, however, beg the question as to whether or not the *Scordisci* viewed their tutelary deity as the deity of the *Scordus Mons* as well. This is certainly possible, given the modern understanding of the "ethnogenesis" of the *Scordisci* as a post-colonial and likely heterogenous entity[^15], i.e. since the *Scordisci* were categorized as such only by the Greco-Roman world by virtue simply of their being the *La Tène* "others" to the north of the Hellenistic southern Balkans, and not because they actually existed as a unified social, cultural, or political entity. According to Häussler, Celtic hero and ancestral cults develop as response to socio-political upheaval.[^16] This may indicate that the worship of \**Scordos* as a heroic ancestral deity began as a way of unifying the various tribal groups of the Central Balkans around their shared geography in the face of social upheaval caused by tribal migrations, the end of the Hallstatt social order in the Balkans, and Roman colonial aggression.[^17]
 
@@ -75,6 +75,7 @@ This does, however, beg the question as to whether or not the *Scordisci* viewed
 [^15]: See, in particular, Džino 2008 & Mihajlović 2019
 [^16]: Häussler 2010 p. 201 and in particular pp. 218-219
 [^17]: See no [^15] above.
+[^18]: Theodossiev 2004 pp. 88-89.
 
 **Bibliography**
 
@@ -102,6 +103,8 @@ Mihajlović (2019) Vladimir, *THE SCORDISCI BETWEEN ANCIENT AND MODERN INTERPRE
 Olmsted (2019) Garrett, *The Gods of the Celts and the Indo-Europeans (Revised Edition 2019)*, Clynchdale Tazewll Virginia 2019 
 
 Pokorny (1959) Julius, *Indogermanisches etymologisches Wörterbuch*, Francke 1959
+
+Theodossiev (2004) Nikola, Celtic Settlement in North-Western Thrace during the Late Fourth and Third Centuries BC: Some Historical and Archaeological Notes, in: H. Dobrzańska, V. Megaw, and P. Poleska (eds.), *Celts on the Margin: Studies in European Cultural Interaction VII c BC – I c AD: Essays in Honor of Zenon Woźniak*, Krákow 2004, pp. 85-92
 
 
 
