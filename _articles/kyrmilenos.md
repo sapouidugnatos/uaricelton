@@ -24,7 +24,7 @@ On first glance, the theonym appears to almost certainly contain the Gaulish wor
 
 ----------
 
-![Kurmilēnos]({{ '/assets/img/kyrmilenos-cosmic.png' | relative_url }} "Kurmilēnos"){:height="375px"}
+![Kurmilēnos]({{ '/assets/img/kyrmilenos-cosmic.png' | relative_url }} "Kurmilēnos"){: .image-double}
 
 ---
 
