@@ -37,6 +37,12 @@
             <div class="spacer">Theology</div>
         {% endif %}
         <a class="bold">Deities</a>
+        <a class="italic"><u>Norici</u></a>
+        {% for article in site.articles %}
+            {% if article.category == "deities" and article.tribe == "Norici" %}
+                <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
+            {% endif %}
+        {% endfor %}
         <a class="italic"><u>Scordisci</u></a>
         {% for article in site.articles %}
             {% if article.category == "deities" and article.tribe == "Scordisci" %}
