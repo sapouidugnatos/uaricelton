@@ -132,12 +132,6 @@ body {
     border-radius: 5px;
 }
 
-.theo-nav:hover {
-    height: auto;
-    overflow: scroll;
-    box-shadow: 0 10px 10px -5px;
-}
-
 .theo-nav div,a {
     height: 50px;
 }
@@ -153,6 +147,48 @@ body {
     width: 100%;
     -webkit-user-select: none;
     -moz-user-select: none;
+}
+
+#shader {
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#theo-box {
+    height: 90vh;
+    width: 90vw;
+    z-index: 9999;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    position: relative;
+}
+
+#box-close {
+    width: auto;
+    height: auto;
+    cursor: pointer;
+    font-weight: bold;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
+#theo-box a {
+    width: 90%;
+}
+
+.link {
+    color: $red;
 }
 
 .active {
@@ -319,4 +355,5 @@ iframe {
     top: 50px;
     width: 100vw;
     height: calc(100vh - 50px);
+    border: 0;
 }

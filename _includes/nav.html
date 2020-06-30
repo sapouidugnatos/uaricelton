@@ -32,21 +32,27 @@
 
     <div class="theo-nav">
         {% if page.category != "methodology" and page.title != "Home" %}
-            <div class="active spacer">Theology</div>
+            <div class="active spacer" id="theo-button">Theology</div>
         {% else %}
-            <div class="spacer">Theology</div>
+            <div class="spacer" id="theo-button">Theology</div>
         {% endif %}
+    </div>
+</nav>
+
+<div id="shader" style="display: none">
+    <div id="theo-box">
+        <span id="box-close">X</span>
         <a class="bold">Deities</a>
         <a class="italic"><u>Norici</u></a>
         {% for article in site.articles %}
             {% if article.category == "deities" and article.tribe == "Norici" %}
-                <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
+                <a href="{{ article.url | prepend:site.baseurl }}" class="link">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
         <a class="italic"><u>Scordisci</u></a>
         {% for article in site.articles %}
             {% if article.category == "deities" and article.tribe == "Scordisci" %}
-                <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
+                <a href="{{ article.url | prepend:site.baseurl }}" class="link">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
         <!-- <a class="italic"><u>Bastarnae</u></a>
@@ -58,20 +64,20 @@
         <a class="italic"><u>Cross-Regional</u></a>
         {% for article in site.articles %}
             {% if article.category == "deities" and article.tribe == "Cross-Regional" %}
-                <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
+                <a href="{{ article.url | prepend:site.baseurl }}" class="link">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
         <a class="bold">Practice</a>
         {% for article in site.articles %}
             {% if article.category == "practice" %}
-                <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
+                <a href="{{ article.url | prepend:site.baseurl }}" class="link">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
         <a class="bold">Metaphysics</a>
         {% for article in site.articles %}
             {% if article.category == "metaphysics" %}
-                <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
+                <a href="{{ article.url | prepend:site.baseurl }}" class="link">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
     </div>
-</nav>
+</div>
