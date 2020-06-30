@@ -173,6 +173,12 @@ body {
     position: relative;
 }
 
+@media only screen and (max-width: 768px) {
+    #theo-box {
+        overflow-y: scroll;
+    }
+}
+
 #box-close {
     width: auto;
     height: auto;
