@@ -53,4 +53,8 @@ This project will be undertaken from an *explicitly* immanent polytheist and ["p
 
 ![Mantalon U̯ari·Celton is Antifascist]({{ '/assets/img/antifa.png' | relative_url }})
 
+Update 06/29/2020: In the interest of providing a more cohesive and comprehensive framework for Reconstructionist Continental Celtic polytheists, as well as for a number of other reasons, this site is now officially affiliated with [Senobessus Bolgon](https://senobessusbolgon.wordpress.com/). This site will maintain its autonomy and scope, but will work very closely with *and within* Senobessus Bolgon on reconstructing fundamental theology and metaphysics, as well as exploring related cults shared between the two regions. The navigation has been expanded to include links to such pieces as have already been written by the team at Senobessus Bolgon.
+
+![Senobessus Bolgon]({{ '/assets/img/senobessus-bolgon.png' | relative_url }} "Senobessus Bolgon"){: .image-double}
+
 I am forever indebted to my friends and colleagues from [Senobessus Bolgon](https://senobessusbolgon.wordpress.com/), [Sundorwīc Hearth](https://sundorwic.wordpress.com/), [Lārhūs Fyrnsida](https://larhusfyrnsida.com/), [Thia Frankisk Aldsido](https://frankisk-allodium.com/), [Tegos Skrībbātous](https://skribbatous.org/), and [The Longship](https://www.thelongship.net/) for their endless support, their amazing minds, and most importantly for their friendship. This work would not have been possible or enjoyable without them. 

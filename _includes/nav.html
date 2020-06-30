@@ -67,5 +67,11 @@
                 <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
             {% endif %}
         {% endfor %}
+        <a class="bold">Metaphysics</a>
+        {% for article in site.articles %}
+            {% if article.category == "metaphysics" %}
+                <a href="{{ article.url | prepend:site.baseurl }}">{{ article.title }}</a>
+            {% endif %}
+        {% endfor %}
     </div>
 </nav>

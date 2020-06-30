@@ -293,3 +293,29 @@ footer h2 {
     width: 300px;
     height: auto;
 }
+
+.frame-return {
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    z-index: 9;
+    display: flex;
+    align-items: center;
+}
+
+.frame-return a {
+    font-weight: bold;
+    color: $red;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+iframe {
+    position: fixed;
+    top: 50px;
+    width: 100vw;
+    height: calc(100vh - 50px);
+}
